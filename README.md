@@ -12,6 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=diannaowa&count_private=true&show_icons=true">
+
 ### Hi! I'm diannaowa
 ---
 💻 Developer & Lead Consultant [@Thoughtworks](https://www.thoughtworks.com/)<br>
