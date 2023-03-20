@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ### Hi! I'm diannaowa
 ---
-💻 Developer & Lead Consultant [@Thoughtworks](https://www.thoughtworks.com/)<br>
+💻 Developer & Lead Consultant <br>
